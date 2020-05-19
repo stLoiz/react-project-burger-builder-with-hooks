@@ -1,6 +1,7 @@
 # Project Description
 
 The project converts an existing project the [burger-builder](https://github.com/stLoiz/react-project-burger-builder) with class based components to functional components and uses hooks.<br/>
+You can checkout the project [here](https://www.stellaloizou.eu/burger-builder-react-project/)
 The main goal is to display how you can use hooks and modern features of React:
 
 - Functional components instead of class based components<br/>
